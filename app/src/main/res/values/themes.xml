@@ -7,10 +7,22 @@
 
     <style name="Theme.Kalculator" parent="Base.Theme.Kalculator" />
 
+    <style name="layoutTheme" >
+        <item name="android:background">@color/white</item>
+    </style>
+
+    <style name="resultView">
+        <item name="android:textColor">@color/resultColor</item>
+    </style>
+
+    <style name="expressionView">
+        <item name="android:textColor">@color/black</item>
+    </style>
+
     <style name="digitButton" parent="commonButton">
         <item name="android:textColor">@color/black</item>
     </style>
-    
+
     <style name="operatorButton" parent="commonButton">
         <item name="android:textColor">@color/btnBackground2</item>
     </style>
