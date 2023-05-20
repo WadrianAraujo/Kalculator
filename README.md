@@ -1,9 +1,10 @@
 # Kalculator
 
-Este repositório contém uma calculadora simples desenvolvida usando o Android Studio com Kotin. A calculadora possui uma interface intuitiva e fornece funcionalidades básicas de cálculo, como adição, subtração, multiplicação, divisão e modulo.
+Este repositório contém uma calculadora simples desenvolvida usando o Android Studio com Kotin. A calculadora possui uma interface intuitiva, adaptavel ao tema do dispositivo e fornece funcionalidades básicas de cálculo, como adição, subtração, multiplicação, divisão e modulo.
 
 <p align="center">
-  <img src="https://github.com/WadrianAraujo/WadrianAraujo/blob/790d4be487a187f9b5bd0de62a5724aea49c29a2/ImagesForReadMe/Kalculator/HomeKalculator.jpg" width="300">
+  <img src="https://github.com/WadrianAraujo/WadrianAraujo/blob/692169c7c8082b538dcef64355e088515815332d/ImagesForReadMe/Kalculator/KalculatorV01.01ThemeWhite.jpg" width="300" style="margin-right: 20px;">
+  <img src="https://github.com/WadrianAraujo/WadrianAraujo/blob/692169c7c8082b538dcef64355e088515815332d/ImagesForReadMe/Kalculator/KalculatorV01.01ThemeDark.jpg" width="300" style="margin-left: 20px;:">
 </p>
 
 ## Funcionalidades
