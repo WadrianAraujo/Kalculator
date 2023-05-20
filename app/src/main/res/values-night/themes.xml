@@ -4,4 +4,37 @@
         <!-- Customize your dark theme here. -->
         <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
     </style>
+
+    <style name="Theme.Kalculator" parent="Base.Theme.Kalculator" />
+
+    <style name="layoutTheme" >
+        <item name="android:background">@color/black</item>
+    </style>
+
+    <style name="resultView">
+        <item name="android:textColor">@color/resultColor</item>
+    </style>
+
+    <style name="expressionView">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="digitButton" parent="commonButton">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="operatorButton" parent="commonButton">
+        <item name="android:textColor">@color/btnBackground2</item>
+    </style>
+
+    <style name="commonButton" parent="Widget.MaterialComponents.ExtendedFloatingActionButton">
+        <item name="android:layout_width">72dp</item>
+        <item name="android:layout_height">72dp</item>
+        <item name="cornerRadius">36dp</item>
+        <item name="backgroundTint">@color/black</item>
+        <item name="android:textSize">32dp</item>
+        <item name="android:layout_margin">12dp</item>
+    </style>
+
+
 </resources>

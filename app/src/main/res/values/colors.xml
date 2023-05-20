@@ -2,8 +2,13 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-
+    <color name="resultColor">#7C7C7C</color>
+    <!-- Theme White -->
     <color name="lineColor">#DAD8D8</color>
     <color name="btnBackground">#FFFFFF</color>
-    <color name="btnBackground2">#FF9800</color>
+    <color name="btnBackground2">#7100f2</color>
+
+    <!-- Theme Night -->
+    <color name="btnbackgroundNight">#FF000000</color>
+
 </resources>

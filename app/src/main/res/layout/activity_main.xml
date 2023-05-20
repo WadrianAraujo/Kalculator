@@ -4,23 +4,25 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    style="@style/layoutTheme"
     tools:context=".MainActivity">
 
     <TextView
         android:id="@+id/data_tv"
+        style="@style/expressionView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:textAlignment="viewEnd"
         android:layout_marginEnd="12dp"
         android:textSize="28sp"
         android:text=""
-        android:textColor="@color/black"
         app:layout_constraintBottom_toTopOf="@+id/result_tv"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
 
     <TextView
         android:id="@+id/result_tv"
+        style="@style/resultView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:textAlignment="viewEnd"
